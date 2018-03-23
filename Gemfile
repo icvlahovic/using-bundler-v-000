@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "awesome_print"
+# gem "awesome_print"
 gem "hashie"
 gem "octokit", "~> 2.0"
 gem "pry", :group => "development"
